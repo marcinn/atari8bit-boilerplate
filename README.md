@@ -29,3 +29,11 @@ Where to put the source code
 
 1. Write code in `main.asm` file.
 2. Change `OUT` variable in `Makefile` to your name.
+
+
+Where is `mads` and `atari800` binaries?
+----------------------------------------
+
+For Arch and Manjaro linux you can find these packages in AUR:
+- https://aur.archlinux.org/packages/mads/
+- https://aur.archlinux.org/packages/atari800/
