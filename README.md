@@ -23,3 +23,9 @@ Clear environment:
 $ make clean
 ```
 
+
+Where to put the source code
+----------------------------
+
+1. Write code in `main.asm` file.
+2. Change `OUT` variable in `Makefile` to your name.
